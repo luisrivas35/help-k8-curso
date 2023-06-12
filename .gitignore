@@ -43,3 +43,5 @@ javawebapp-deployment.yml
 # ignore .exe files,
 *.exe
 /terraform/.terraform/providers/
+#keys
+*.pem
